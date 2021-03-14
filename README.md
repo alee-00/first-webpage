@@ -1,2 +1,2 @@
 # first-webpage
-Practice with HTML
+Practice with enforcing basic HTML with a webpage on my favorite Kpop Group
