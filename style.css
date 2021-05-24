@@ -18,6 +18,7 @@ p {
   font-family: 'KoHo', sans-serif;
   font-align: center;
   font-size: 18px;
+  font-weight: 500;
 }
 
 a:link {
@@ -26,8 +27,4 @@ a:link {
 
 a:hover {
   color: red;
-}
-
-a:visited {
-  color: blue;
 }
