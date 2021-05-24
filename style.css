@@ -1,12 +1,12 @@
 div {
   margin: 0 auto;
-  text-align: center;
 }
 
 h1 {
   font-family: 'Poppins', sans-serif;
   font-size: 60px;
   background-color: red;
+  text-align: center;
 }
 
 h2 {
