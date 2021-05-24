@@ -30,6 +30,12 @@ p {
 table, tr, th, td {
   border: 2px solid black;
   text-align: center;
+  margin: 0 auto;
+}
+
+ul {
+  font-family: 'KoHo', sans-serif;
+  text-align: center;
 }
 
 a:link {
