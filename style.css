@@ -1,0 +1,17 @@
+h1,
+h2,
+h3 {
+  font-family: 'Single Day', cursive;
+  font-align: center;
+}
+
+p {
+  font-family: 'KoHo', sans-serif;
+  font-align: center;
+}
+
+.table {
+  border-style: solid;
+  border-width: 3px;
+}
+
