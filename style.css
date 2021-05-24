@@ -12,20 +12,22 @@ h1 {
 h2 {
   font-family: 'Poppins', sans-serif;
   font-size: 40px;
+  text-align: center;
 }
 
 h3 {
   font-family: 'Poppins', sans-serif;
   font-size: 20px;
+  text-align: center;
 }
 
 p {
   font-family: 'KoHo', sans-serif;
-  font-align: center;
+  text-align: center;
   font-size: 18px;
 }
 
-table, tr, th {
+table, tr, th, td {
   border: 2px solid black;
 }
 
