@@ -1,6 +1,7 @@
 h1 {
   font-family: 'Poppins', sans-serif;
   font-size: 60px;
+  background-color: red;
 }
 
 h2 {
@@ -25,4 +26,8 @@ a:link {
 
 a:hover {
   color: red;
+}
+
+a:visited {
+  color: blue;
 }
