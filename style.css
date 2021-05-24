@@ -29,6 +29,7 @@ p {
 
 table, tr, th, td {
   border: 2px solid black;
+  text-align: center;
 }
 
 a:link {
