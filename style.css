@@ -21,6 +21,6 @@ p {
   border-width: 3px;
 }
 
-a.hover {
+a:hover {
   color: red;
 }
