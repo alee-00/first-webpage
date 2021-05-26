@@ -40,8 +40,10 @@ ul {
   text-align: center;
 }
 
-.tableOfContents li {
+.noBullets li {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 a:link {
