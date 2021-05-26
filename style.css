@@ -40,7 +40,7 @@ ul {
   text-align: center;
 }
 
-.tableOfContents {
+.tableOfContents li {
   list-style-type: none;
 }
 
