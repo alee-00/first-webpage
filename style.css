@@ -4,6 +4,10 @@ header {
   width: 100%;
 }
 
+body, footer {
+  position: relative;
+}
+
 h1 {
   font-family: 'Poppins', sans-serif;
   font-size: 60px;
@@ -44,6 +48,10 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+}
+
+#jump {
+  font-size: 20px;
 }
 
 a:link {
