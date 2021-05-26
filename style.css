@@ -34,6 +34,12 @@ table, tr, th, td {
 }
 
 ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+li {
   font-family: 'KoHo', sans-serif;
   text-align: center;
 }
