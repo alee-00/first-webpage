@@ -1,8 +1,5 @@
-header {
-  background-color: #E8E8E8;
-  position: fixed;
-  width: 100%;
-  margin-top: 0;
+body {
+  margin-top: 200px;
 }
 
 h1 {
@@ -52,8 +49,17 @@ ul {
   font-size: 20px;
 }
 
+#tableOfContents {
+  background-color: #E8E8E8;
+  position: fixed;
+  width: 100%;
+  margin-top: 0;
+}
+
 img {
-  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 a:link {
