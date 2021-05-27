@@ -2,6 +2,7 @@ header {
   background-color: #E8E8E8;
   position: fixed;
   width: 100%;
+  margin-top: 0;
 }
 
 body, footer {
@@ -42,6 +43,7 @@ table, tr, th, td {
 ul {
   font-family: 'KoHo', sans-serif;
   text-align: center;
+  padding-left: 0;
 }
 
 .noBullets li {
