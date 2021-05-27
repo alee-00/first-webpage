@@ -52,7 +52,7 @@ ul {
 
 #tableOfContents {
   background-color: #E8E8E8;
-  position: relative;
+  position: fixed;
   width: 100%;
   margin-top: 0;
 }
