@@ -1,9 +1,10 @@
 header {
     background-color: #E8E8E8;
     position: fixed;
-    width: 100%;
+    left: 0;
+    width: 25%;
+    height: 100%;
     margin-top: 0;
-    z-index: 10;
 }
   
 h1 {
