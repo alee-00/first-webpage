@@ -57,12 +57,6 @@ li {
     font-size: 20px;
 }
   
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-  
 a:link {
     color: gray;
 }
