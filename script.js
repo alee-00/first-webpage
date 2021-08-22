@@ -1,4 +1,4 @@
 function playSong(button) {
-    var song = new Audio("song"+"button");
-    song.play();
+    var audioFile = new Audio("song"+"button"+".mp4");
+    audioFile.play();
 }
