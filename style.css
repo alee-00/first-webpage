@@ -47,9 +47,14 @@ li {
     padding: 0;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .adjust {
     position: relative;
-    display: block;
     margin-left: auto;
     margin-right: auto;
 }
